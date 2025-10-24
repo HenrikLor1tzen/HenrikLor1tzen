@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @HenrikLor1tzen
-- 👀 I’m interested in Football
-- 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on .i.
-- 📫 How to reach me kik
+
 
 
 <!---
